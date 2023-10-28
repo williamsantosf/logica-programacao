@@ -8,3 +8,7 @@ let frota = [
   console.log ("A frota " + frota[0][0] + " é a placa " + frota[0][1] + ", dirigida pelo motorista " + frota[0][2])
   console.log ("A frota " + frota[1][0] + " é a placa " + frota[1][1] + ", dirigida pelo motorista " + frota[1][2])
   console.log ("A frota " + frota[2][0] + " é a placa " + frota[2][1] + ", dirigida pelo motorista " + frota[2][2])
+
+
+
+//matrizes guardam estruturas de dados mais complexas, são usadas como tabelas.
