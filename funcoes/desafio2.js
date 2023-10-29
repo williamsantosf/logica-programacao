@@ -31,4 +31,4 @@ function calculaRankin(win, loose){
         }
 }
 
-calculaRankin(103,0)
+calculaRankin(2,1)
